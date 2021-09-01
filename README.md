@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello 👋
+My name is Oliver.
 
-<!--
-**snOm3ad/snOm3ad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Industrial Engineering graduate based in Montreal with a strong passion for programming and mathematics. I like learning new stuff but also mastering things I already know as well as teaching these things to others!
 
-Here are some ideas to get you started:
+### Currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm very into all things DevOps, particularly:
+
+- Github Actions
+- Docker
+- Kubernetes
+
+### How to reach me:
+
+[<img align="left" alt="snOm3ad" width="22px" src="https://raw.githubusercontent.com/snOm3ad/snOm3ad/main/logo-ci.jpg"/>][website]
+[<img align="left" alt="snOm3ad" width="22px" src="https://raw.githubusercontent.com/snOm3ad/snom3ad.github.io/master/linkedin.svg"/>][linkedin]
+
+[website]: https://afermentingprogrammer.dev
+[linkedin]: https://linkedin.com/in/oliver-t
