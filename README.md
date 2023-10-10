@@ -5,11 +5,12 @@ I am an Industrial Engineering graduate based in Montreal with a strong passion 
 
 ### Currently learning
 
-I'm very into all things DevOps, particularly:
+- WebAssembly
+- Spidermonkey
+- WebKit
+- wasm-bindgen
 
-- Github Actions
-- Docker
-- Kubernetes
+Into the unknown!
 
 ### How to reach me:
 
