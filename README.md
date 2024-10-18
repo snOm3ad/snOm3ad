@@ -5,10 +5,10 @@ I am an Industrial Engineering graduate based in Montreal with a strong passion 
 
 ### Currently learning
 
-- WebAssembly
-- Spidermonkey
-- WebKit
-- wasm-bindgen
+- esp_hal
+- embassy
+- BLE protocol
+- Low level communication protocols (SPI, RMT, UART, etc.)
 
 Into the unknown!
 
